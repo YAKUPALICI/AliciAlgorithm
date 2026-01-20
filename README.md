@@ -28,7 +28,7 @@ The file `performance_test.py` compares the Alıcı Algorithm against a traditio
 Ensure you have Python installed. Run the script directly in your terminal:
 
 📜 Citation 
-​If you use this algorithm in your research, please refer to the original paper:
+ ​If you use this algorithm in your research, please refer to the original paper:
 ​Yakup Alıcı. (2026). The Alıcı Algorithm: An Optimized Discrete Computation Method for Bounded Arithmetic Series.
 ​Author: Yakup Alıcı - Independent Researcher
 ```bash
